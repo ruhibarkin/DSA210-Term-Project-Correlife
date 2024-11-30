@@ -8,7 +8,7 @@ By exploring data from step count, screen time, credit card spending, exam dates
 3) Exam dates from my school and working dates from my job
 4) My credit card expenditures (optional)
 
-  These datas will be combined into a single dataset for analysis and create correlation
+These datas will be combined into a single dataset for analysis and create correlation
 
 # Project Idea
 This project will utilize data from an iPhone’s Health and Screen Time apps, personal credit card spending records, and manually logged exam and study dates.
@@ -27,7 +27,7 @@ Analyze the relationship between exam preparation days and changes in other beha
 4. Modeling and Correlation Analysis:
 For better analysis and understanding modeling process will play important role
    
-5. Visualization:
+5. Visualization
    
    
-6.Reporting
+6. Reporting
