@@ -15,19 +15,19 @@ This project will utilize data from an iPhone’s Health and Screen Time apps, p
 By visualizing and modeling this data, the project hopes to provide actionable insights into improving balance and productivity in daily life.
 
 # Project Plan
-1. Data Collection
-   Data will be collected from Iphone and internet banking
+1. Data Collection:
+Data will be collected from Iphone and internet banking
    
-2. Data Cleaning and Preparation
-   Data will be prepared for further usage and unnecesarry datas will be cleaned up
+2. Data Cleaning and Preparation:
+Data will be prepared for further usage and unnecesarry datas will be cleaned up
    
-3. Data Analysis
-   Analyze the relationship between exam preparation days and changes in other behaviors also iphone data; find the key trends.
+3. Data Analysis:
+Analyze the relationship between exam preparation days and changes in other behaviors also iphone data; find the key trends.
    
-4. Modeling and Correlation Analysis
-   For better analysis and understanding modeling process will play important role
+4. Modeling and Correlation Analysis:
+For better analysis and understanding modeling process will play important role
    
-5. Visualization
-   Drawing
+5. Visualization:
+   
    
 6.Reporting
