@@ -1,19 +1,24 @@
 # DSA210-Term-Project-Correlife
-People mood changes dependent and indepently in period of time. If the relation of the mood change possibly explain by the specific data group than we may have solid reosaning about feelings and actions. By exploring data from my own step count, screen time, credit card spending, exam dates, and working days, this project seeks to understand the interplay between physical activity, digital habits and financial behavior (optional). Uncover how these dynmacis effect each other with the presence of daily life tasks and problems.
+The main goal behind this project is to understand the relation between daily activity patterns using personal data. By analyzing various metrics such as step count, screen time, workdays and exam days my purpose is to gain insight that how different factors influence each other by numbers. By working on this project I also had chance to increase my understanding on the course named DSA 210 which is a introduction course to data scienece and analysis. The knowledge will be harden durring this process.
 
 
 # Data Sources
 
-1) Daily step count and walking distance from Iphone health
-2) Daily Screen time for my both Iphone and MacBook usage (if needed specific application usage will be used)
-3) Exam dates of my school and working dates of my job
-4) My credit card expenditures (optional)
+The dataset used in this project was collected over a 90-day period. It contains daily records of: 
 
-These datas will be combined into a single dataset for analysis and try to create correlation between problems and life problems
+1) Calories burned (Kj)
+2) Step Count (steps)
+3) Workday status (1 for workdays, 0 otherwise)
+4) Exam day status (1 for workdays, 0 otherwise)
+5) Screen time on PC, mobile and total screen time (hours,minute)
+6) Days of the week (R = Thursday, N = Sunday)
+
+Calories and step counts data obtained by a App Store app named Health Auto Export - JSON + CSV. By this app and also 7 days free trial I managed to pull 90 days of data. Workdays and exam dates are signed mannualy and also the screen time of your devices in Apple is being stored by default. The last 30 days of screen time records can be viewved before being deleted. So I recorded my screen times regularly to some point including both my Iphone and Macbook screen times. 
+
+These datas are combined into a single dataset for analysis and try to create correlation between numbers
 
 # Project Idea
-This project will utilize data from an iPhone’s Health and Screen Time apps, personal credit card spending records, and manually logged exam and study dates.
-By visualizing and modeling this data, the project hopes to provide actionable insights into improving balance and productivity in daily life.
+This project focuses on analyzing a dataset containing 90 days of daily activity data. The goal is to explore patterns and correlations within the data, particularly focusing on screen time, step count, workdays, and exam days. Additionally, clustering techniques were applied to group similar days and gain further insights into distinct day types.
 
 # Project Plan
 1. Data Collection:
